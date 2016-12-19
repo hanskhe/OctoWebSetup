@@ -1,1 +1,0 @@
-﻿. ".\DeployScripts\DoConfig.ps1"
